@@ -1,5 +1,8 @@
-$primary_color: #AAA;
+$primary_color:  #708090;
 
+html{
+  background-color: #536872;
+}
 body {
   background-color: $primary_color;
   font: {
@@ -24,7 +27,7 @@ a {
 #container {
   width: 75%;
   margin: 0 auto;
-  background: #fff;
+  background: #99aab5;
   padding: 20px 40px;
   border: solid 1px black;
   margin-top: 20px;
